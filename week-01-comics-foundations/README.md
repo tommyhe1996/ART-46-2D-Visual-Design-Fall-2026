@@ -190,3 +190,13 @@ The Scott McCloud reading introduced a more structured way to think about visual
 For me, the most useful idea is:
 
 > **The goal is not simply to make a beautiful drawing. The goal is to make visual choices that communicate clearly.**
+
+```
+ART-46-2D-Visual-Design-Fall-2026/
+│
+├── README.md
+│
+└── week-01-comics-foundations/
+    └── README.md
+
+```
