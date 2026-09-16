@@ -79,3 +79,27 @@ Final Critique
 ## Purpose
 
 I will use this repository to record my creative process, class learning, sketches, design experiments, comic development, reflections, and completed ART 46 projects throughout Fall 2026.
+
+```
+ART-46-2D-Visual-Design-Fall-2026/
+│
+├── README.md
+├── syllabus/
+│   └── README.md
+│
+├── week-01-comics-foundations/
+├── week-02-comics-foundations/
+├── week-03-diary-comic/
+├── week-04-character-design/
+├── week-05-character-comic/
+├── week-06-character-comic/
+├── week-07-character-comic-critique/
+├── week-08-rule-comic/
+├── week-09-rule-comic/
+├── week-10-rule-comic-critique/
+├── week-11-final-zine/
+├── week-12-final-zine/
+├── week-13-final-zine/
+└── week-14-final-critique/
+
+```
