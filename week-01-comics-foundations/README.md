@@ -1,196 +1,521 @@
-# Week 01 — Comics Foundations
+# Week 01 — Comics Foundations + Photoshop Basics
 
 **ART 46 — 2-D Visual Design**  
-**Fall 2026**
-
-## Class Focus
-
-This first class introduced the course, comics foundations, drawing exercises, and the beginning of Wacom tablet and Photoshop practice.
+**Date:** September 16, 2026  
+**Instructor:** Yasmeen Abedifard
 
 ---
 
-## Grounding Exercise — Spiral Drawing
+## Week 01 Overview
 
-Instructions:
+The first ART 46 class introduced the overall direction of the course.
 
-- Start in the very center of the page.
-- Make the tightest spiral possible.
-- Do not stop.
-- Let the drawing become sloppy.
+Although ART 46 is a 2-D Visual Design class, comics will be used as the main vessel for learning design principles. The primary digital software for the course will be Adobe Photoshop.
 
-### Purpose
+This week focused on:
 
-This exercise helped me begin drawing without worrying about perfection. The goal was continuous movement and loosening up before beginning more structured drawing activities.
-
----
-
-## Course Resources
-
-- Instructor Information
-- Syllabus
-- Readings
-- Course Slides
+- Course introduction and syllabus
+- Grounding and drawing exercises
+- *Making Comics* Chapter 1
+- Comics foundations
+- Panels
+- Speech bubbles
+- Gutters
+- Sequence and narrative
+- Wacom tablet basics
+- Photoshop basics
 
 ---
 
-## Drawing Exercise — Self Portrait
+## Course Structure
 
-I created a self-portrait in the center of the page.
+The class meets every Wednesday from **1:30 PM–5:15 PM**.
 
-Around the portrait:
+There will usually be a roughly 30-minute break around the midpoint of the class.
 
-### ❤️ Influences
+The course is scheduled for 14 weeks, with approximately 13 actual class sessions because there is no class on Veterans Day.
 
-I wrote at least four comics, artists, or other things that have influenced me.
+Important dates:
 
-### ☁️ Things That Do Not Excite Me
-
-I also wrote at least four comics, artists, styles, or things that do not strongly interest or excite me.
-
-Under the self-portrait, I included:
-
-- My name
-- My pronouns
+- September 22 — Last day for refund
+- October 1 — Last day to drop without a W
+- December 16 — Last class / final
 
 ---
 
-## Class Introduction / Sharing
+# Part 1 — Grounding Exercise
 
-We introduced ourselves and discussed:
+## Spiral Drawing
+
+We began class with a five-minute spiral drawing exercise.
+
+### Instructions
+
+1. Start at the very center of the page.
+2. Create the tightest spiral possible.
+3. Continue drawing without stopping.
+4. Let the spiral naturally become larger.
+5. Do not worry about making it perfect.
+
+The instructor emphasized moving slowly and allowing the drawing to change naturally.
+
+### Reflection
+
+This was a grounding exercise rather than a finished artwork.
+
+The exercise encouraged me to focus on:
+
+- Continuous movement
+- Attention
+- Patience
+- Letting go of perfection
+- Becoming comfortable with drawing
+
+The spiral did not need to remain perfectly even.
+
+---
+
+# Part 2 — Course Introduction
+
+ART 46 is focused on **2-D Visual Design**, but comics will be used to explore design and visual storytelling.
+
+The instructor explained that we will learn how to make comics:
+
+- Digitally
+- Traditionally
+- Through exercises
+- Through larger assignments
+- Through visual storytelling
+
+Adobe Photoshop will be the primary software used in class.
+
+---
+
+# Part 3 — Self-Portrait Exercise
+
+## Self Portrait + Influences
+
+We created a self-portrait in the center of the paper.
+
+We then added:
+
+### ❤️ Heart
+
+Things that influence, inspire, or excite us.
+
+These did not have to be limited to art or comics.
+
+### ☁️ Storm Cloud
+
+Things that do not excite or interest us.
+
+### Under the Portrait
+
+We included:
+
+- Name
+- Pronouns
+
+---
+
+## Class Introduction
+
+Each student shared:
 
 - Name
 - Pronouns
 - Major
-- What we are looking for in this class
-- Our previous experience with drawing
+- What they are looking for in this class
+- Previous experience with drawing
+- Things that inspire them
+- Things that do not excite them
+
+For me, this activity was also part of learning how personal interests can influence visual design and creative work.
 
 ---
 
-## Reading — *Making Comics*
+# Part 4 — Reading
 
-We spent approximately 30 minutes reading:
+## *Making Comics* — Chapter 1
 
-**Scott McCloud — *Making Comics*, Chapter 1: "Writing with Pictures"**
+We spent approximately 30 minutes reading Chapter 1 of Scott McCloud's *Making Comics*.
 
-One important idea from Chapter 1 is that creating comics involves making deliberate storytelling choices.
+After reading, the class discussed:
 
-McCloud introduces five major choices involved in comics storytelling:
+- Initial thoughts
+- Agreements or disagreements
+- How comics communicate
+- How visual storytelling works
+- How planning happens before drawing
 
-1. Choice of Moment
-2. Choice of Frame
-3. Choice of Image
-4. Choice of Word
-5. Choice of Flow
+One important idea from the discussion was that making comics involves much more than simply drawing.
 
-These choices affect how clearly and effectively a story communicates with the reader.
+Planning and visual decision-making happen before the final artwork.
 
 ---
 
-## Comics Foundations Pt. 1
+## Five Basic Storytelling Choices
 
-We reviewed the first Comics Foundations slides.
+McCloud introduces five important choices:
 
-The class began exploring comics as a visual storytelling system rather than simply individual drawings.
+1. **Choice of Moment**
+2. **Choice of Frame**
+3. **Choice of Image**
+4. **Choice of Word**
+5. **Choice of Flow**
 
-Important ideas included:
+These choices help determine how a comic communicates with the reader.
 
-- Sequential storytelling
-- Visual communication
+---
+
+# Part 5 — What Are Comics?
+
+The class discussed the question:
+
+## How would you describe a comic?
+
+Ideas included:
+
+- A sequence of images
+- Images combined with words
+- Visual storytelling
+- Communication through images
+- Stories told through panels
+
+We also discussed that comics do not always require words.
+
+The instructor emphasized that comics can take many forms, so instead of finding one strict definition, we began learning the important visual language commonly used in comics.
+
+---
+
+# Part 6 — Comics Foundations
+
+The main terms introduced were:
+
 - Panels
-- Images
-- Reader experience
-- Story clarity
+- Speech bubbles
+- Gutters
+- Sequence
+- Narrative
+
+These concepts form part of the visual language of comics.
 
 ---
 
-## Drawing Exercise — 4 Selves
+## Panels
 
-We created four quick full-body self-portraits.
+Panels are boxes around segmented images.
 
-Each drawing lasted approximately **3 minutes**.
+They function like individual scenes or visual moments.
 
-The goal was to continue drawing without becoming too focused on perfection.
+Important ideas:
 
-The four prompts were:
+- Panels can vary in size and shape.
+- Panels create visual rhythm.
+- Their arrangement affects reading order.
+- English-language comics usually move left to right.
+- Manga may use a different reading direction.
+- Beginners can benefit from simple grids.
 
-1. **You Flying**
-2. **You as a Plant**
-3. **Your Favorite Knick-Knack**
-4. **You as a Weather System**
+The instructor recommended beginning with approximately **4–6 panels**.
 
-### Reflection
-
-This exercise encouraged imagination and helped me think about how the same person can be visually represented in very different ways.
-
-Rather than focusing only on realistic self-portraiture, I could express identity through movement, objects, nature, and metaphor.
+Using a constraint can make the process easier because it limits the number of choices.
 
 ---
 
-## Wacom & Photoshop Demonstration — Part 1
+## Speech Bubbles
 
-Topics introduced:
+Speech bubbles communicate dialogue, thought, narration, volume, or tone.
 
-### Wacom Tablet Basics
-- Basic tablet use
-- Drawing with a stylus
+Important ideas:
 
-### Photoshop
-- Making a new canvas
-- Setting up the View
-- Brushes
-- Erasers
-- Undo / Redo
-- Layers — Part 1
+- Different bubble shapes communicate different information.
+- The tail normally points toward the speaker.
+- Bubble placement affects reading order.
+- Small text can suggest whispering.
+- Dotted bubble outlines can also suggest quiet speech.
+- Large or energetic shapes can suggest louder speech.
 
----
+### The “Magic Z”
 
-## Key Learning
+The instructor described the typical English reading path as a kind of **Magic Z**.
 
-The biggest idea I took from this class is that comics and visual design are not only about drawing skill.
+The eye generally moves:
 
-They are also about **making choices that help communicate an idea clearly**.
+**left → right → down → left → right**
 
-Even simple drawings can become effective storytelling tools when the artist carefully considers:
+Speech bubbles should support this flow.
 
-- what moment to show,
-- how to frame it,
-- what image to use,
-- whether words are needed,
-- and how the reader moves through the sequence.
+Poor placement can cause readers to read dialogue in the wrong order.
 
 ---
 
-## For Next Class
+## The Gutter
 
-### Reading
+The gutter is the blank space between panels.
+
+It can mean two things:
+
+1. The physical white space between panels.
+2. The implied time or action that happens between panels.
+
+The reader often mentally fills in what happened between one image and the next.
+
+This makes the gutter an important storytelling device.
+
+---
+
+## Sequence & Narrative
+
+Sequence refers to how images and events are arranged.
+
+Narrative refers to how those images build a story.
+
+One interesting feature of comics is that the reader can often see:
+
+- The past
+- The present
+- The future
+
+on the same page at the same time.
+
+This differs from moving images such as film, where images are shown one after another in time.
+
+---
+
+## Panel Transitions
+
+We briefly discussed different types of transitions.
+
+### Action-to-Action
+
+Follows physical actions happening in a scene.
+
+Example:
+
+A character raises an arm → performs an action → another reaction occurs.
+
+### Subject-to-Subject
+
+Moves between different subjects within the same scene.
+
+Example:
+
+Speaker → listener → another person.
+
+These categories are useful tools for understanding how scenes move, but they do not need to become rigid rules.
+
+---
+
+# Part 7 — Wacom Tablet Basics
+
+We were introduced to Wacom drawing tablets.
+
+The tablets are provided for in-class use.
+
+They are not required purchases.
+
+Students can also use their own digital tools, but the instructor wants everyone to learn the Wacom + Photoshop workflow during demonstrations.
+
+---
+
+# Part 8 — Photoshop Basics
+
+## Canvas Setup
+
+Recommended setup:
+
+- **8.5 × 11 inches**
+- **300 DPI**
+
+300 DPI was introduced as the standard working resolution.
+
+150 DPI is too low for quality work, while 600 DPI creates unnecessarily large files for this class.
+
+---
+
+## Raster vs. Vector
+
+Photoshop is primarily a **raster-based** program.
+
+Raster images are built from pixels.
+
+This means enlarging a raster image too much can reduce image quality.
+
+---
+
+## Workspace
+
+The instructor recommended simplifying the Photoshop workspace.
+
+For beginning work, most panels can be hidden except:
+
+- **Layers**
+
+This keeps the workspace easier to understand.
+
+---
+
+## Tools Introduced
+
+### Brush Tool
+
+Used for drawing.
+
+Brush size and type can be changed from the top toolbar.
+
+### Eraser Tool
+
+Works similarly to the Brush tool.
+
+The Wacom pen can also be flipped around to use the eraser.
+
+### Undo
+
+`Command + Z`
+
+### Redo
+
+`Shift + Command + Z`
+
+---
+
+## Layers
+
+Layers were described like stacked sheets of glass.
+
+Each layer can contain different artwork independently.
+
+Important functions:
+
+- Create new layers
+- Turn layers on/off
+- Use the eye icon to control visibility
+- Keep different elements separate
+
+---
+
+## Saving
+
+Photoshop does **not automatically save** the work.
+
+Save manually using:
+
+**File → Save As**
+
+---
+
+# Important Course Policies
+
+## Attendance
+
+- 15+ minutes late counts as tardy.
+- 3 tardies equal 1 absence.
+- More than 2 unexcused absences can significantly affect the grade.
+- Email the instructor before class if an absence needs to be considered excused.
+
+## Screens
+
+Phones, laptops, and tablets should only be used for class work during class.
+
+Personal use is allowed during break.
+
+## Headphones
+
+Headphones are:
+
+- Not allowed during lecture
+- Not allowed during critique
+- Allowed during studio/drawing time
+
+## Critique
+
+During critique, computers may be turned off so everyone can focus on the artwork and discussion.
+
+## AI
+
+AI tools are not permitted for course assignments.
+
+The submitted artwork should represent the student's own ideas, creative decisions, and artistic process.
+
+---
+
+# Major Course Direction
+
+The course will include three main comic projects:
+
+1. Character-based comic
+2. Rules-based comic
+3. Final comic
+
+The final comic will have a more open theme and will receive several weeks of development time.
+
+---
+
+# Week 01 Key Learning
+
+My biggest learning from Week 01 is that comics are not only about drawing.
+
+They combine:
+
+**Design + Planning + Sequence + Images + Reading Flow + Storytelling**
+
+Panels organize visual moments.
+
+Speech bubbles control how dialogue flows.
+
+Gutters ask the reader to imagine what happens between images.
+
+Sequence turns individual drawings into narrative.
+
+Photoshop and the Wacom tablet will become tools for building these ideas digitally.
+
+---
+
+# For Next Class
+
+## Reading
 
 Read:
 
-**Scott McCloud — *Understanding Comics*, Chapter 2: "The Vocabulary of Comics"**
+**Scott McCloud — *Understanding Comics*, Chapter 2**
 
-Chapter 2 begins exploring how pictures function as **icons** and how images can represent people, objects, ideas, and concepts.
+Take notes and observations for class discussion.
 
-### Required Materials
+## Materials
 
 Bring:
 
 - 1 Composition Notebook
-- 4 Black Paper Mate Pens
+- 4 Black Paper Mate / comparable black pens
+
+The instructor prefers pens that produce a clear line without bleeding through the notebook paper.
+
+## Adobe Creative Cloud
+
+Create a free Adobe account using a **non-Peralta email**.
+
+Do not purchase a Creative Cloud subscription because the classroom computers already have the software licensed.
+
+Remote Creative Cloud access may become available later after the instructor receives more information from IT.
 
 ---
 
-## Week 01 Takeaway
+# Week 01 Reflection
 
-Week 01 introduced me to comics as a combination of drawing, design, sequence, and communication.
+Week 01 helped me understand ART 46 as more than a traditional drawing class.
 
-The spiral exercise and quick self-portrait exercises encouraged me to draw without worrying about making everything perfect.
+The course will use comics as a way to learn visual design.
 
-The Scott McCloud reading introduced a more structured way to think about visual storytelling.
+The spiral drawing showed that drawing does not need to begin with perfection.
 
-For me, the most useful idea is:
+The self-portrait exercise connected personal identity and influences with creativity.
 
-> **The goal is not simply to make a beautiful drawing. The goal is to make visual choices that communicate clearly.**
+The comics lecture introduced a visual language of panels, speech bubbles, gutters, sequence, and narrative.
 
+The Photoshop demonstration began connecting those ideas to digital production.
+
+My goal going forward is to focus on the process of visual storytelling and gradually build confidence using both drawing and digital tools.
 ```
 ART-46-2D-Visual-Design-Fall-2026/
 │
